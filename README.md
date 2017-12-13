@@ -5,6 +5,8 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Table of Contents
 https://charleslbryant.gitbooks.io/hello-react-and-typescript/content/Samples/ComponentBasic.html
+https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react
+http://blog.wolksoftware.com/working-with-react-and-typescript
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
 - [Folder Structure](#folder-structure)
